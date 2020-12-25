@@ -17,8 +17,12 @@ area on the screen. So by using this tab bar you can reduce the area coverage by
 ![Untitled design-14](https://user-images.githubusercontent.com/56252259/103134787-bd238000-46d9-11eb-93ba-f6aaa99487e6.png)
 
 # How to customize 🛠 ? 
-Its very simple to use Pull Bar just change the button image and text according to your need, make changes in the tab bar view constraits to adjust width, and you are
-pretty well to go.
+Its very simple to use Pull Bar just change the button image and text according to your need, make changes in the tab bar view constraits to adjust width, and you are pretty well to go.
+
+# Live Demo 📹
+
+<img src= "https://user-images.githubusercontent.com/56252259/103139004-b444a580-46fd-11eb-8531-e58efcf994ff.gif" width="300" height="600">
+
 
 # License ⚖️  
 
